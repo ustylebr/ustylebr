@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá, eu sou o Fábio Magalhães 👋
 
-<!--
-**ustylebr/ustylebr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Desenvolvedor Web3 em formação
 
-Here are some ideas to get you started:
+Atualmente estou mergulhado no universo Web3 através da formação completa da **NearX**, onde estou me aprofundando em Smart Contracts, Finanças Descentralizadas (DeFi) e na arquitetura de soluções em blockchain.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Meu foco técnico está em:
+- **Linguagens:** `Solidity`, `Rust` e `Python`
+- **Ferramentas:** `Foundry`, `Hardhat` e `Ethers.js`
+- **Conceitos:** `DeFi`, `Tokenização (RWA)` e `Segurança de Contratos`
+
+🚀 Estou construindo meu portfólio e busco ativamente minha primeira oportunidade como Desenvolvedor Web3 para aplicar meu conhecimento e colaborar em projetos inovadores.
+
+Email: fabio.magalhaes.dev@gmail.com
